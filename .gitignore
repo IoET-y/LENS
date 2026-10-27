@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions / build artifacts
+*.so
+build/
+dist/
+*.egg-info/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Benchmark outputs, logs, and animations
+benchmark_output*/
+mapf_viz*/
+*.log
+*.svg
+*.gif
+
+# Virtual environments
+.venv/
+venv/
+env/
